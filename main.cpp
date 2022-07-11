@@ -40,3 +40,5 @@ int main() {
     }
     else std::cout << "Incorrect choice" << std::endl;
 }
+
+//проба гита
